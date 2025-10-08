@@ -1,4 +1,4 @@
-# Render HTML
+### Render HTML
 
 - Thực ra ngôn ngữ khi ta code là JSX, lúc này Vite sẽ compile JSX này ra JavaScript sau đó React tạo ra Virtual DOM và so sánh với DOM thật của trình duyệt. Cuối cùng trình duyệt sẽ render thành HTML 
 

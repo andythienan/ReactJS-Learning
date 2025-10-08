@@ -14,3 +14,6 @@ $ cd my-react-app
 
 - Run the React Application
 $ npm run dev
+
+- Upgrade to React 19 
+$ npm i react@latest react-dom@latest
